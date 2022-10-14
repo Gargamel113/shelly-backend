@@ -1,7 +1,8 @@
 # shelly-backend
 Shelly web backend
 
-First step download and install intellij community edition.
+# First step 
+download and install intellij community edition.
 
 
 # start project
